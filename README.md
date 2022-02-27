@@ -1,2 +1,2 @@
-# react-user-sample-
+# react-user-sample-app
 Created with CodeSandbox
